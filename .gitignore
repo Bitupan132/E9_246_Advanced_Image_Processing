@@ -12,3 +12,12 @@
 /assignment_3/Zero-DCE-master
 /assignment_3/VE-LOL-L
 /assignment_3/bm3d-4.0.3
+
+
+/assignment_4/dataset/vehicles/
+# /assignment_4/dataset/campus_vehicles/
+# /assignment_4/outputs/
+/assignment_4/src/yolo26n.pt
+/assignment_4/src/yolov8n.pt
+# /runs/
+/runs/detect/assignment_4/runs/vehicles_yolov8n/weights/
